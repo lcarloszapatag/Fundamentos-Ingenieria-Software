@@ -3,6 +3,7 @@
 ### Escribimos el mail XD
     
 1-  Apretamos enter para enviar el mail.
+
 2.  Al apretar enter estamos enviando una señal eléctrica desde el teclado
     - Esta señal es enviada a la motherboard, la motherboard la envia al CPU
     - La CPU recibe la señal del teclado y la envia al sistema operativo
