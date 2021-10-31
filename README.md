@@ -10,3 +10,5 @@ Apuntes en markdown de la clase fundamentos ingeniería software platzi-dictada 
 [8.Perifericos y sistemas entradas de informacion](https://github.com/lcarloszapatag/Fundamentos-Ingenieria-Software/blob/main/Perif%C3%A9ricos-y-sistemas-de-entrada-de-informaci%C3%B3n.md)
 
 [11.Puertos y protocolos de red](https://github.com/lcarloszapatag/Fundamentos-Ingenieria-Software/blob/main/Puertos%20y%20protocolos%20de%20red.md)
+
+[12.Qué es una dirección IP y el protocolo de Internet](https://github.com/lcarloszapatag/Fundamentos-Ingenieria-Software/blob/main/Qu%C3%A9-es-una-direccion-ip-protocolo-internet.md)
