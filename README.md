@@ -7,3 +7,5 @@ Apuntes en markdown de la clase fundamentos ingeniería software platzi-dictada 
 
 [7.Gpus Tarjetas Videos ysonidos](https://github.com/lcarloszapatag/Fundamentos-Ingenieria-Software/blob/main/Gpus-Tarjetas-Video-Sonido.md)
 
+[8.Perifericos y sistemas entradas de informacion]https://github.com/lcarloszapatag/Fundamentos-Ingenieria-Software/blob/main/Perif%C3%A9ricos-y-sistemas-de-entrada-de-informaci%C3%B3n.md
+
