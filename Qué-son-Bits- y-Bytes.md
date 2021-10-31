@@ -4,6 +4,8 @@
   
 2. Los computadores funcionan con Ceros y unos, pero no significa que existan en verdad (físicamente).
 
+![que es bits](https://github.com/lcarloszapatag/Fundamentos-Ingenieria-Software/blob/main/que%20son%20los%20bits.png?raw=true)
+
 Hace mucho se descubrió que la electricidad funciona con ondas.
 
 Las ondas controladas y pegadas a una membrana permitían guardar sonidos.
