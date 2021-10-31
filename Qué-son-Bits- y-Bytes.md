@@ -27,3 +27,11 @@ le asignaron a cada posición binaría un valor.
 3.A cada posicion de numero binario l asigna un numero particular
 
  64 32 16 8 4 2 1
+ 
+ 4. Para idiomas diferentes
+
+Cada idioma cuenta con caracteres diferentes, como lo puede ser el chino mandarín, idiomas como el ruso, el japonés y demás, y antiguamente, cada uno contaba con su propia tabla, hasta que se creó el UTF-8, que permite que todos estos caracteres puedan ser compatibles entre sí
+
+Cuando apareció el UTF-16, se abrió un nuevo horizonte con más espacios, y cuando ya todos los idiomas funcionaban bajo este estándar, los desarrolladores empezaron a agregar emojis.
+
+UNICODE es la organización encargada de manejar todo lo concerniente al UTF-16, lo que incluye también determinar qué emojis serán agregados al sistema, lo que depende de Samsung, Google, Window
