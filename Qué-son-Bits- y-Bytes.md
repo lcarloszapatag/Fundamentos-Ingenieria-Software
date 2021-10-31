@@ -29,6 +29,14 @@ le asignaron a cada posición binaría un valor.
  64 32 16 8 4 2 1
  
  4. Para idiomas diferentes
+  -Las IP son bytes
+
+Por ejemplo 192.168.255, si vemos esta dirección, las IP son bytes que son menores que 256, que es el número máximo que podemos formar con los números desde 1 a 128.
+
+Los bytes pueden ser colores:
+
+Los bytes pueden representar los números presentes en cada uno de los pixeles, el número de bytes en una imágen dependerá del número de pixeles de la misma. Algunas pueden utilizar 2 bytes para representar el color, y serán mucho más pesadas que las que utilizan 1 solo byte.
+  
 
 Cada idioma cuenta con caracteres diferentes, como lo puede ser el chino mandarín, idiomas como el ruso, el japonés y demás, y antiguamente, cada uno contaba con su propia tabla, hasta que se creó el UTF-8, que permite que todos estos caracteres puedan ser compatibles entre sí
 
