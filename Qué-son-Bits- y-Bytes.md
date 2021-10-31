@@ -20,4 +20,8 @@ IMB en los años 50 definió el concepto de Byte que serviría para almacenar un
 
 En esa época los CPU eran extremadamente costoso y la mínima unidad que encontraron fue de 8 espacios en las que solo se almacenarían ceros y unos.
 
-le asignaron a cada posición binaría un valor
+le asignaron a cada posición binaría un valor.
+
+3.A cada posicion de numero binario l asigna un numero particular
+
+ 64 32 16 8 4 2 1
