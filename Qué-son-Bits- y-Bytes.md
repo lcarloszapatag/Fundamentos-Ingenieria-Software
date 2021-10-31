@@ -29,7 +29,8 @@ le asignaron a cada posición binaría un valor.
  64 32 16 8 4 2 1
  
  4. Para idiomas diferentes
-  -Las IP son bytes
+ 
+   -Las IP son bytes
 
 Por ejemplo 192.168.255, si vemos esta dirección, las IP son bytes que son menores que 256, que es el número máximo que podemos formar con los números desde 1 a 128.
 
